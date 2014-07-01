@@ -33,9 +33,9 @@
 
 | Início        | Atividade           | Tempo  |
 | ------        |:-------------:| -----:|
-|       | - Apresentar os conceitos básicos de java |  |
-|       | - Mostrar aplicações desenvolvidas em java      |    |
-|  | - Reunião de Planejamento do Sprint: decidir prioridade das histórias e pontua-las.      |     |
+| | Apresentar os conceitos básicos de java | |
+| | Mostrar aplicações desenvolvidas em java | |
+| | Reunião de Planejamento  | |
 | | Revisar o que foi visto | 2 |
 
 ## Avaliação
