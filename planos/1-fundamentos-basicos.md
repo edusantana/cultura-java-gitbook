@@ -3,16 +3,40 @@
 
 ## Objetivos Gerais
 
-- Introduzir vivência de metodologia de desenvolvimento
-- Instigar alunos a a pesquisar sobre ferramentas
+- Aplicar os fundamento básicos de java através de uma vicência de metodologia de desenvolmento para solucionar uma demanda fictícia do mercado de trabalho.
 
 ## Objetivos Específicos
 
-- Introduzir vivência de metodologia de
+- Apresentar os fundamentos básicos de Java
+
+- Promover multidiciplinaridade com as demais disciplinas do período: **Gerencia de Configuração**, **Gerenciamento de Requisitos** e **Gestão Ágil de Projetos**.
+
+- Introduzir técnicas de levantamento de necessidades, projeto e desenvolvimento de sistemas de informação;
+
+- Introduzir conceitos de metodologias de desenvolvimento de sistemas utilizadas no mercado: História, Critérios de Aceitação, Gerência de Requisitos
+
+- Apresentar o uso de uma das linguagens de desenvolvimento de sistemas mais utilizadas no setor de informática: Java;
+
+- Apresentar
+
+- Elaborar projetos adequados às realidades empresariais, com modelagem e criação de bases de dados baseadas nos gerenciadores de banco de dados de maior aceitação no mercado;
+
+- Conhecer os conceitos e termos inerentes à área de informática;
+
+- Instigar os alunos a conhecer novas ferramentas;
 
 ## Conteúdo
 
+- Fundamentos básicos de Java
+
 ## Desenvolvimento
+
+| Início        | Are           | Tempo  |
+| ------        |:-------------:| -----:|
+|       | - Apresentar os conceitos básicos de java |  |
+|       | - Mostrar aplicações desenvolvidas em java      |    |
+|  | - Reunião de Planejamento do Sprint: decidir prioridade das histórias e pontua-las.      |     |
+
 
 ## Avaliação
 
