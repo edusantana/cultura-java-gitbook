@@ -2,7 +2,7 @@
 
 ## Fundamentos básicos, teorias e aplicação computacional
 
-- 
+-
 
 ### Objetivos Gerais
 
@@ -37,7 +37,7 @@
 
 ### Avaliação
 
--
+
 
 ### Recursos Materiais
 
@@ -48,11 +48,7 @@
 
 ### Referências bibliográficas
 
-- Material da aula (HTML, PDF, epub: livro digital):
-http://edusantana511.gitbooks.io/cultura-java/
-
-**NOTE**: Para os dispositivos móveis o *epub* é melhor pois se adapta ao tamanho da tela.
-
 - Apostila [Java e Orientação a Objetos](http://www.caelum.com.br/apostila-java-orientacao-objetos/) - caelum
 - Apostila [Algoritmos e Estruturas de Dados com Java](http://www.caelum.com.br/apostila-java-estrutura-dados/) - caelum
 - [Thinking in Java](http://www.saeedsh.com/resources/Thinking%20in%20Java%204th%20Ed.pdf) - em inglês
+- Ferramenta de teste [concordion](http://concordion.org/)
