@@ -2,6 +2,8 @@
 
 ## Fundamentos básicos, teorias e aplicação computacional
 
+- 
+
 ### Objetivos Gerais
 
 - Aplicar os fundamentos básicos de Java através de uma vicência para solucionar uma demanda fictícia do mercado de trabalho.
@@ -39,7 +41,7 @@
 
 ### Recursos Materiais
 
-- [x] Data show,
+- [x] Data show
 - [x] Computador
 - [x] Quadro branco e lápis piloto.
 - [x] Cartões de histórias
