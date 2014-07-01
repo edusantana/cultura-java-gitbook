@@ -2,6 +2,10 @@
 
 ![Java logo](logo_java.jpg)
 
+![Alt text](logo_java.jpg "Optional title")
+
+![Alt text](aulas/1-fundamentos-basicos.md/logo_java.jpg "Optional title")
+
 ## O que é Java?
 
 mostrar as vantagens e desvantagens do Java;
