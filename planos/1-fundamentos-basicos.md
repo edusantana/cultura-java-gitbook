@@ -1,11 +1,12 @@
-# Plano de Aula: Fundamentos básicos, teorias e aplicação computacional
+# Plano de Aula
 
+## Fundamentos básicos, teorias e aplicação computacional
 
-## Objetivos Gerais
+### Objetivos Gerais
 
 - Aplicar os fundamento básicos de java através de uma vicência de metodologia de desenvolmento para solucionar uma demanda fictícia do mercado de trabalho.
 
-## Objetivos Específicos
+### Objetivos Específicos
 
 - Apresentar os fundamentos básicos de Java
 
@@ -25,14 +26,14 @@
 
 - Instigar os alunos a conhecer novas ferramentas;
 
-## Conteúdo
+### Conteúdo
 
 - Fundamentos básicos de Java
 
-## Desenvolvimento
+### Desenvolvimento
 
 | Início        | Atividade           | Tempo  |
-| ------        |:-------------:| -----:|
+| ------        |:-------------| -----:|
 | | Apresentar o material didático: link no plano de aula | |
 | | Apresentar os conceitos básicos de java | |
 | | Mostrar aplicações desenvolvidas em java | |
@@ -40,18 +41,18 @@
 | | Implementar história escolhida | |
 | | Revisar o que foi visto através da avaliação | 2 |
 
-## Avaliação
+### Avaliação
 
 -
 
-## Recursos Materiais
+### Recursos Materiais
 
-- [ ] Data show,
-- [ ] Computador
-- [ ] Quadro branco e lápis piloto.
-- [ ] Cartões de histórias
+- [x] Data show,
+- [x] Computador
+- [x] Quadro branco e lápis piloto.
+- [x] Cartões de histórias
 
-## Referências bibliográficas
+### Referências bibliográficas
 
 - Material da aula (HTML, PDF, epub: livro digital):
 http://edusantana511.gitbooks.io/cultura-java/
