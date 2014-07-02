@@ -1,5 +1,7 @@
 # Fundamentos básicos, teorias e aplicação computacional
 
+compensação da ausência às aulas - incapacidade física relativa
+
 ![Java logo](logo_java.jpg)
 
 ![Alt text](logo_java.jpg "Optional title")

@@ -12,17 +12,19 @@
 
 - Apresentar os fundamentos básicos de Java
 
-- Promover multidisciplinaridade com as demais disciplinas do período: **Gerencia de Configuração**, **Gerenciamento de Requisitos** e **Gestão Ágil de Projetos**.
+- Promover multidisciplinaridade com as demais disciplinas do período: **Gerência de Configuração**, **Gerenciamento de Requisitos** e **Gestão Ágil de Projetos**.
 
 - Introduzir técnicas de levantamento de necessidades, projeto e desenvolvimento de sistemas de informação;
 
 - Introduzir conceitos de metodologias de desenvolvimento de sistemas utilizadas no mercado: História, Critérios de Aceitação, Gerência de Requisitos
 
-- Apresentar o uso de uma das linguagens de desenvolvimento de sistemas mais utilizadas no setor de informática: Java;
+- Apresentar o Java como uma das linguagens de desenvolvimento de sistemas mais utilizadas no setor de informática
 
 ### Conteúdo
 
 - Fundamentos básicos de Java
+- Máquina Virtual
+- Mercado Álvo do Java
 
 ### Desenvolvimento
 
@@ -31,12 +33,12 @@
 | | Apresentar o material didático: link no plano de aula | |
 | | Apresentar os conceitos básicos de java | |
 | | Mostrar aplicações desenvolvidas em java | |
-| | Reunião de Planejamento  | |
-| | Implementar história escolhida | |
-| | Revisar o que foi visto através da avaliação | 2 |
+| | Prática de Desenvolvimento  | |
+| | Aplicar o Questionário de Revisão | 2 |
 
 ### Avaliação
 
+A aula será considerada satisfatória através do feedback positivo dos alunos sobre o Questionário de Revisão.
 
 
 ### Recursos Materiais
